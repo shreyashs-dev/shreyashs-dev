@@ -1,142 +1,65 @@
 # Shreyash Thombare
 
-## Aspiring Cloud Engineer | AWS Cloud Engineer | Linux Administrator
-
-### About Me
-
-Aspiring Cloud Engineer with hands-on knowledge of Linux Administration and AWS Cloud Services. Skilled in Linux administration, networking fundamentals, AWS cloud services, and cloud infrastructure concepts. Passionate about building practical cloud projects and starting a professional career in cloud computing.
+**Aspiring Cloud Engineer**  
+📞 +91 8412817616[cite: 2] | ✉️ shreyashthombare490@gmail.com[cite: 2] | 🔗 [linkedin.com/in/shreyash-thombare2005](https://linkedin.com/in/shreyash-thombare2005)[cite: 2] | 💻 [GitHub: shreyashs-dev](https://github.com/shreyashs-dev)
 
 ---
 
-## Career Objective
+## 🎯 Career Objective
 
-Aspiring Cloud Engineer with hands-on knowledge of Linux administration and AWS Cloud services. Skilled in user and group management, file permissions, package management, networking fundamentals, and cloud infrastructure basics. Passionate about building practical cloud projects and starting a professional career in cloud computing.
-
----
-
-## Technical Skills
-
-### Cloud Computing
-- Cloud Computing Fundamentals
-- Amazon Web Services (AWS)
-- Cloud Infrastructure Fundamentals
-- 3-Tier Architecture
-
-### AWS Services
-- Amazon EC2
-- Amazon S3
-- AWS IAM
-- Amazon VPC
-- Amazon EBS
-- Amazon RDS
-- Application Load Balancer (ALB)
-- Target Groups
-- Auto Scaling
-- Security Groups
-
-### AWS Networking
-- Public Subnets
-- Private Subnets
-- Routing
-- Security Groups
-- Health Checks
-- Cross-Region VPC Peering
-
-### Linux Administration
-- Ubuntu Linux
-- Linux Command Line (CLI)
-- User & Group Management
-- File Permissions & Ownership
-- SSH & Remote Server Management
-
-### Package & Service Management
-- APT
-- YUM
-- DNF
-- Process Management
-- Service Management using systemctl
-
-### Networking
-- Networking Fundamentals
-- Networking Commands
-- SSH
-- Remote Server Management
+Aspiring Cloud Engineer with hands-on knowledge of Linux administration and AWS Cloud services. Skilled in user and group management, file permissions, package management, networking fundamentals, and cloud infrastructure basics. Passionate about building practical cloud projects and starting a professional career in cloud computing.[cite: 2]
 
 ---
 
-## Projects
+## 🛠️ Technical Skills
 
-### Three-Tier Web Application
-**Technologies:** AWS EC2, VPC, MariaDB
-
-- Built a web application using AWS EC2, VPC, and MariaDB.
-- Implemented separate web, application, and database layers.
-
-### AWS RDS Database Migration
-**Technologies:** AWS RDS
-
-- Migrated a database to Amazon RDS.
-- Configured secure application connectivity.
-
-### Cross-Region VPC Peering
-**Technologies:** AWS VPC
-
-- Connected two VPCs across AWS regions using VPC Peering.
-
-### Application Load Balancer
-**Technologies:** AWS ALB, EC2
-
-- Configured an Application Load Balancer.
-- Distributed traffic to EC2 instances using Target Groups.
-
-### AWS Image Upload Application
-**Technologies:** EC2, S3, RDS, MySQL
-
-- Developed an image upload application.
-- Stored uploaded images in Amazon S3.
-- Stored image details in a MySQL database.
+* **Linux Administration:** Ubuntu Linux, Linux Command Line (CLI), User & Group Management, File Permissions & Ownership[cite: 2]
+* **Networking:** Networking Basics, Networking Commands, SSH & Remote Server Management[cite: 2]
+* **AWS Networking:** Private Subnets, Public Subnet, Routing, security groups, Health Check[cite: 2]
+* **AWS Services:** EC2, S3, IAM, VPC, EBS, RDS, Application Load Balancer, Target Groups, Security Groups, Auto Scaling[cite: 2]
+* **Cloud Infrastructure:** 3-Tier Architecture, Web/Application, Layer, Nginx, Cloud Infrastructure Fundamentals[cite: 2]
+* **Version Control:** Git, GitHub, Repository Management, Branching, Merging, Commit, Push, Pull, Clone[cite: 2]
 
 ---
 
-## Education
+## 🚀 Projects
 
-### Bachelor of Computer Science (BCS)
-Someshwar Science College  
-Someshwarnagar, Tal. Baramati, Dist. Pune  
-Year of Graduation: 2025
-
----
-
-## Certification
-
-### Masters in Cloud Architecture (Pursuing)
-Fortune Cloud Technologies Pvt. Ltd.
+### 1. Three-Tier Web Application
+* Built and deployed a three-tier web application on AWS with separate Web, Application, and Database layers[cite: 2].
+* Configured Amazon EC2 instances within a custom VPC using public and private subnets[cite: 2].
+* Implemented security groups and route tables to control communication between different tiers[cite: 2].
+* Used MariaDB for the database layer and configured secure connectivity between the application and database servers[cite: 2].
+* **Impact:** This architecture improved security, scalability, and separation of responsibilities[cite: 2].
 
 ---
 
-## Current Focus
-- AWS Cloud Services
-- Linux Administration
-- Cloud Networking
-- Infrastructure Management
-- Cloud Support Engineering
+### 2. AWS RDS Database Migration
+* Migrated an existing database from a local/server environment to Amazon RDS[cite: 2].
+* Configured an RDS database instance with appropriate database engine settings, security groups, and network connectivity[cite: 2].
+* Updated the application configuration to establish secure connectivity with RDS[cite: 2].
+* Verified database connectivity, data integrity, and application functionality after migration[cite: 2].
+* **Impact:** This project helped reduce database management overhead and provided a more reliable and scalable database environment[cite: 2].
 
 ---
 
-## Contact Information
-
-**Email:** shreyashthombare490@gmail.com
-
-**Phone:** +91 8412817616
-
-**LinkedIn:** https://www.linkedin.com/in/shreyash-thombare2005
-
----
-
-## Professional Statement
-
-I am continuously learning and building hands-on projects in AWS, Linux Administration, Networking, and Cloud Infrastructure to strengthen my skills and prepare for professional Cloud Engineering and Cloud Support roles.
+### 3. Application Load Balancer
+* Configured an Application Load Balancer (ALB) to distribute incoming application traffic across multiple EC2 instances[cite: 2].
+* Created and configured target groups, registered EC2 instances, and configured listener rules for HTTP traffic[cite: 2].
+* Implemented health checks to ensure traffic was routed only to healthy instances[cite: 2].
+* Tested the application by accessing the ALB DNS name and verifying traffic distribution across the backend servers[cite: 2].
+* **Impact:** This setup improved application availability and provided basic load distribution[cite: 2].
 
 ---
 
-Thank you for visiting my GitHub profile.
+## 🎓 Education
+
+**Bachelors of Computer Science (BCS)**[cite: 2]  
+*Someshwar Science College, Someshwarnagar, Tal. Baramati, Dist. Pune*[cite: 2]  
+**Year:** 2026[cite: 2]
+
+---
+
+## 📜 Certifications
+
+* **MCA-Masters in Cloud Architecture - Pursuing**[cite: 2]  
+  *Fortune Cloud Technologies Pvt Ltd*[cite: 2]
